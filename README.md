@@ -1,2 +1,7 @@
 # feature-engineering-for-buildings
-Tao's Masters
+Abstract
+
+Building energy consumption prediction plays a crucial role in the fields of measurement and verification, design decision making and fault detection. Owing to the arduous human work, the feature engineering, which potentially generates more quality features to boost the prediction accuracy, has not yet gained popularity in the machine learning community, especially building industry. For this reason, this research conducts an in-depth review and comparison between the conventional prediction models and the automatic feature engineering and feature selection modified models. Approximately 482 non-residential buildings are taken as the research sample for the generalisable result. This research elaborates on the methodology, applications, limitations and future research directions of the integrated model, revealing that feature selection, if not more, is equally important as the data collection, algorithm selection and prediction scenarios selection (Train-test sample split). Moreover, a properly designed feature selection exhibits the capability to eliminate redundant features, bringing about more interpretable feature subset. In contrast, integrating automatic feature engineering does not show a convincing advantage of improving the prediction accuracy while creates noises to confuse the learner, leading to roughly 35 to 45% worse prediction results in comparison with the original result. Thus, practitioners in the built environment are not encouraged to distribute too much time on it unless further evidence proves its significance.
+
+Keywords: Machine learning, Automatic Feature Engineering, Feature Selection, Building Data Genome project
+
